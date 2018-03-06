@@ -1,5 +1,5 @@
 {
-  "name": "mongo-query-builder",
+  "name": "mongodb-query-builder",
   "version": "1.0.0",
   "description": "A builder to create efficient document queries and expressions.",
   "main": "index.js",

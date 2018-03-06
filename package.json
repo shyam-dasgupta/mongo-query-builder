@@ -1,0 +1,27 @@
+{
+  "name": "mongo-query-builder",
+  "version": "1.0.0",
+  "description": "A builder to create efficient document queries and expressions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shyam-dasgupta/mongo-query-builder.git"
+  },
+  "keywords": [
+    "mongo",
+    "query",
+    "builder"
+  ],
+  "author": "Shyam Dasgupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shyam-dasgupta/mongo-query-builder/issues"
+  },
+  "homepage": "https://github.com/shyam-dasgupta/mongo-query-builder#readme",
+  "dependencies": {
+    "utils-data": "^1.0.1"
+  }
+}

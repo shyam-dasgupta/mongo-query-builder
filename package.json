@@ -1,6 +1,6 @@
 {
   "name": "mongo-qbuilder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A builder to create efficient document queries and expressions.",
   "main": "index.js",
   "scripts": {

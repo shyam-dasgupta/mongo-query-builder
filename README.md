@@ -1,8 +1,10 @@
 # mongo-query-builder
-A builder to create efficient document queries and expressions.
+A builder to create efficient Mongo DB document queries and expressions.
 
 # Installation
-npm install mongodb-query-builder --save
+```
+npm install --save mongo-qbuilder
+```
 
 # License
 MIT license

@@ -1,5 +1,5 @@
 {
-  "name": "@shyam-dasgupta/mongodb-query-builder",
+  "name": "mongo-qbuilder",
   "version": "1.0.0",
   "description": "A builder to create efficient document queries and expressions.",
   "main": "index.js",
